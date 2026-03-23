@@ -1,0 +1,454 @@
+[2026-03-23T09:51:05.266+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2026-03-23T09:51:05.267+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2026-03-23T09:51:05.268+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-03-23T09:51:05.269+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2026-03-23T09:51:05.275+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2026-03-23T09:56:06.212+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2026-03-23T09:56:06.228+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2026-03-23T09:59:48.461+0000] {manager.py:469} INFO - Processing files using up to 2 processes at a time 
+[2026-03-23T09:59:48.464+0000] {manager.py:470} INFO - Process each file at most once every 30 seconds
+[2026-03-23T09:59:48.465+0000] {manager.py:471} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2026-03-23T09:59:48.466+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2026-03-23T09:59:48.474+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2026-03-23T10:04:48.572+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2026-03-23T10:04:48.591+0000] {manager.py:741} INFO - There are 0 files in /opt/airflow/dags
+[2026-03-23T10:09:48.664+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2026-03-23T10:09:48.767+0000] {manager.py:741} INFO - There are 3 files in /opt/airflow/dags
+[2026-03-23T10:09:53.040+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.95s           2026-03-23T10:09:49
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.28s           2026-03-23T10:09:50
+/opt/airflow/dags/scoring_dag.py                              1           0  0.92s           2026-03-23T10:09:49
+================================================================================
+[2026-03-23T10:10:23.785+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.26s           2026-03-23T10:10:20
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.16s           2026-03-23T10:10:20
+/opt/airflow/dags/scoring_dag.py                              1           0  0.22s           2026-03-23T10:10:20
+================================================================================
+[2026-03-23T10:10:54.515+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.33s           2026-03-23T10:10:51
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.26s           2026-03-23T10:10:51
+/opt/airflow/dags/scoring_dag.py                              1           0  0.27s           2026-03-23T10:10:51
+================================================================================
+[2026-03-23T10:11:25.160+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.33s           2026-03-23T10:11:22
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.22s           2026-03-23T10:11:22
+/opt/airflow/dags/scoring_dag.py                              1           0  0.28s           2026-03-23T10:11:22
+================================================================================
+[2026-03-23T10:11:55.827+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.24s           2026-03-23T10:11:52
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.16s           2026-03-23T10:11:52
+/opt/airflow/dags/scoring_dag.py                              1           0  0.20s           2026-03-23T10:11:52
+================================================================================
+[2026-03-23T10:12:26.544+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.24s           2026-03-23T10:12:23
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.18s           2026-03-23T10:12:23
+/opt/airflow/dags/scoring_dag.py                              1           0  0.20s           2026-03-23T10:12:23
+================================================================================
+[2026-03-23T10:12:57.171+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.22s           2026-03-23T10:12:54
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.16s           2026-03-23T10:12:54
+/opt/airflow/dags/scoring_dag.py                              1           0  0.18s           2026-03-23T10:12:54
+================================================================================
+[2026-03-23T10:13:27.831+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.22s           2026-03-23T10:13:24
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.19s           2026-03-23T10:13:24
+/opt/airflow/dags/scoring_dag.py                              1           0  0.23s           2026-03-23T10:13:24
+================================================================================
+[2026-03-23T10:13:58.480+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.20s           2026-03-23T10:13:55
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.14s           2026-03-23T10:13:55
+/opt/airflow/dags/scoring_dag.py                              1           0  0.19s           2026-03-23T10:13:55
+================================================================================
+[2026-03-23T10:14:29.175+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.17s           2026-03-23T10:14:26
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.16s           2026-03-23T10:14:26
+/opt/airflow/dags/scoring_dag.py                              1           0  0.17s           2026-03-23T10:14:26
+================================================================================
+[2026-03-23T10:14:49.491+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2026-03-23T10:14:49.554+0000] {manager.py:741} INFO - There are 3 files in /opt/airflow/dags
+[2026-03-23T10:14:59.919+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.19s           2026-03-23T10:14:56
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.16s           2026-03-23T10:14:57
+/opt/airflow/dags/scoring_dag.py                              1           0  0.17s           2026-03-23T10:14:56
+================================================================================
+[2026-03-23T10:15:30.533+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.17s           2026-03-23T10:15:27
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.16s           2026-03-23T10:15:27
+/opt/airflow/dags/scoring_dag.py                              1           0  0.18s           2026-03-23T10:15:27
+================================================================================
+[2026-03-23T10:16:01.200+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.18s           2026-03-23T10:15:58
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.16s           2026-03-23T10:15:58
+/opt/airflow/dags/scoring_dag.py                              1           0  0.19s           2026-03-23T10:15:58
+================================================================================
+[2026-03-23T10:16:31.807+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.21s           2026-03-23T10:16:28
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.16s           2026-03-23T10:16:28
+/opt/airflow/dags/scoring_dag.py                              1           0  0.17s           2026-03-23T10:16:28
+================================================================================
+[2026-03-23T10:17:02.475+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.21s           2026-03-23T10:16:59
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.20s           2026-03-23T10:16:59
+/opt/airflow/dags/scoring_dag.py                              1           0  0.22s           2026-03-23T10:16:59
+================================================================================
+[2026-03-23T10:17:33.118+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.17s           2026-03-23T10:17:30
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.17s           2026-03-23T10:17:30
+/opt/airflow/dags/scoring_dag.py                              1           0  0.18s           2026-03-23T10:17:30
+================================================================================
+[2026-03-23T10:18:03.879+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.28s           2026-03-23T10:18:00
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.29s           2026-03-23T10:18:01
+/opt/airflow/dags/scoring_dag.py                              1           0  0.32s           2026-03-23T10:18:00
+================================================================================
+[2026-03-23T10:18:34.637+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.21s           2026-03-23T10:18:31
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.15s           2026-03-23T10:18:31
+/opt/airflow/dags/scoring_dag.py                              1           0  0.18s           2026-03-23T10:18:31
+================================================================================
+[2026-03-23T10:19:05.409+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.19s           2026-03-23T10:19:02
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.14s           2026-03-23T10:19:02
+/opt/airflow/dags/scoring_dag.py                              1           0  0.17s           2026-03-23T10:19:02
+================================================================================
+[2026-03-23T10:19:36.153+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.20s           2026-03-23T10:19:33
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.14s           2026-03-23T10:19:33
+/opt/airflow/dags/scoring_dag.py                              1           0  0.15s           2026-03-23T10:19:33
+================================================================================
+[2026-03-23T10:19:49.504+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2026-03-23T10:19:49.577+0000] {manager.py:741} INFO - There are 3 files in /opt/airflow/dags
+[2026-03-23T10:20:06.902+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.17s           2026-03-23T10:20:03
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.14s           2026-03-23T10:20:03
+/opt/airflow/dags/scoring_dag.py                              1           0  0.17s           2026-03-23T10:20:03
+================================================================================
+[2026-03-23T10:20:37.574+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.16s           2026-03-23T10:20:34
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.14s           2026-03-23T10:20:34
+/opt/airflow/dags/scoring_dag.py                              1           0  0.16s           2026-03-23T10:20:34
+================================================================================
+[2026-03-23T10:21:07.576+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.20s           2026-03-23T10:21:05
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.26s           2026-03-23T10:21:05
+/opt/airflow/dags/scoring_dag.py                              1           0  0.18s           2026-03-23T10:21:05
+================================================================================
+[2026-03-23T10:21:37.959+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.20s           2026-03-23T10:21:35
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.16s           2026-03-23T10:21:36
+/opt/airflow/dags/scoring_dag.py                              1           0  0.20s           2026-03-23T10:21:35
+================================================================================
+[2026-03-23T10:22:08.593+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.18s           2026-03-23T10:22:06
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.15s           2026-03-23T10:22:06
+/opt/airflow/dags/scoring_dag.py                              1           0  0.18s           2026-03-23T10:22:06
+================================================================================
+[2026-03-23T10:22:39.329+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.17s           2026-03-23T10:22:37
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.15s           2026-03-23T10:22:37
+/opt/airflow/dags/scoring_dag.py                              1           0  0.18s           2026-03-23T10:22:37
+================================================================================
+[2026-03-23T10:23:10.048+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.20s           2026-03-23T10:23:08
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.15s           2026-03-23T10:23:08
+/opt/airflow/dags/scoring_dag.py                              1           0  0.16s           2026-03-23T10:23:07
+================================================================================
+[2026-03-23T10:23:40.704+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.17s           2026-03-23T10:23:38
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.16s           2026-03-23T10:23:38
+/opt/airflow/dags/scoring_dag.py                              1           0  0.17s           2026-03-23T10:23:38
+================================================================================
+[2026-03-23T10:24:11.350+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.19s           2026-03-23T10:24:09
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.17s           2026-03-23T10:24:09
+/opt/airflow/dags/scoring_dag.py                              1           0  0.17s           2026-03-23T10:24:09
+================================================================================
+[2026-03-23T10:24:42.049+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.20s           2026-03-23T10:24:39
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.16s           2026-03-23T10:24:40
+/opt/airflow/dags/scoring_dag.py                              1           0  0.21s           2026-03-23T10:24:40
+================================================================================
+[2026-03-23T10:24:50.143+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2026-03-23T10:24:50.200+0000] {manager.py:741} INFO - There are 3 files in /opt/airflow/dags
+[2026-03-23T10:25:12.690+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.18s           2026-03-23T10:25:10
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.15s           2026-03-23T10:25:10
+/opt/airflow/dags/scoring_dag.py                              1           0  0.18s           2026-03-23T10:25:10
+================================================================================
+[2026-03-23T10:25:43.333+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.18s           2026-03-23T10:25:41
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.27s           2026-03-23T10:25:41
+/opt/airflow/dags/scoring_dag.py                              1           0  0.19s           2026-03-23T10:25:41
+================================================================================
+[2026-03-23T10:26:13.956+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.17s           2026-03-23T10:26:11
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.15s           2026-03-23T10:26:12
+/opt/airflow/dags/scoring_dag.py                              1           0  0.17s           2026-03-23T10:26:11
+================================================================================
+[2026-03-23T10:26:44.684+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.20s           2026-03-23T10:26:42
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.15s           2026-03-23T10:26:42
+/opt/airflow/dags/scoring_dag.py                              1           0  0.20s           2026-03-23T10:26:42
+================================================================================
+[2026-03-23T10:27:15.351+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.17s           2026-03-23T10:27:13
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.15s           2026-03-23T10:27:13
+/opt/airflow/dags/scoring_dag.py                              1           0  0.18s           2026-03-23T10:27:13
+================================================================================
+[2026-03-23T10:27:46.069+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.16s           2026-03-23T10:27:44
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.16s           2026-03-23T10:27:44
+/opt/airflow/dags/scoring_dag.py                              1           0  0.17s           2026-03-23T10:27:44
+================================================================================
+[2026-03-23T10:28:16.764+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.15s           2026-03-23T10:28:14
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.14s           2026-03-23T10:28:14
+/opt/airflow/dags/scoring_dag.py                              1           0  0.18s           2026-03-23T10:28:14
+================================================================================
+[2026-03-23T10:28:47.473+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.16s           2026-03-23T10:28:45
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.14s           2026-03-23T10:28:45
+/opt/airflow/dags/scoring_dag.py                              1           0  0.17s           2026-03-23T10:28:45
+================================================================================
+[2026-03-23T10:29:18.183+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.16s           2026-03-23T10:29:16
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.14s           2026-03-23T10:29:16
+/opt/airflow/dags/scoring_dag.py                              1           0  0.16s           2026-03-23T10:29:16
+================================================================================
+[2026-03-23T10:29:48.834+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.19s           2026-03-23T10:29:46
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.15s           2026-03-23T10:29:46
+/opt/airflow/dags/scoring_dag.py                              1           0  0.16s           2026-03-23T10:29:46
+================================================================================
+[2026-03-23T10:29:50.853+0000] {manager.py:738} INFO - Searching for files in /opt/airflow/dags
+[2026-03-23T10:29:50.901+0000] {manager.py:741} INFO - There are 3 files in /opt/airflow/dags
+[2026-03-23T10:30:19.505+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.17s           2026-03-23T10:30:17
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.14s           2026-03-23T10:30:17
+/opt/airflow/dags/scoring_dag.py                              1           0  0.18s           2026-03-23T10:30:17
+================================================================================
+[2026-03-23T10:30:50.180+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.18s           2026-03-23T10:30:48
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.18s           2026-03-23T10:30:48
+/opt/airflow/dags/scoring_dag.py                              1           0  0.19s           2026-03-23T10:30:48
+================================================================================
+[2026-03-23T10:31:20.867+0000] {manager.py:879} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                            PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/engagement_dag.py                           1           0  0.16s           2026-03-23T10:31:18
+/opt/airflow/dags/ingestion_dag.py                            1           0  0.16s           2026-03-23T10:31:18
+/opt/airflow/dags/scoring_dag.py                              1           0  0.17s           2026-03-23T10:31:18
+================================================================================
